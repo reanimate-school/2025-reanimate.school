@@ -4,7 +4,7 @@
 
 <center><img width=500 src="/Summer%20school%202024%20wip1.jpg"/></center><br/>
 
-# Who? THIS IS 2025 WEBSITE
+# Who?
 
 Researchers, writers, journalists, Students, gaming enthusiasts, and individuals interested in (retro) games. No previous experience in retro-development is necessary: enthusiasm trumps experience!
 
@@ -18,8 +18,7 @@ Concordia University, at the heart of Montréal, in a conference room for the th
 
 # When?
 
-Mon. Jun. 10th to Fri. Jun. 14th (inclusive)
-Overlapping with [Congress 2024](https://www.federationhss.ca/en/congress2024) and just before the conference of the Canadian Game Studies Association (CGSA)
+Jun. Mon. 9 to Fri. 13, 2025 (inclusive)
 
 # Why?
 
@@ -31,5 +30,5 @@ Please send an e-mail to reanimate.school@proton.me with a (short) bio. (200 wor
 
 # How much?
 
-Please see the [registration page](/registration/).
+Not available yet.
 
