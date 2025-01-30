@@ -1,4 +1,4 @@
-+++
+<!-- +++
 title = "Speakers"
 description = ""
 date = "2024-01-26"
@@ -70,3 +70,4 @@ Carl Therrien is a Full Professor in games and film studies at the Université d
 [[PDF](/Presentations/240613a%20-%20Rilla%20and%20Darren%20-%20The%20Knot%20-%20Situating%20Old%20Games%20(Research).pdf)]
 
 Darren Wershler is a Professor of English, Acting Director of the Centre for Technoculture, Art and Games (TAG), and the Director of the Residual Media Depot at Concordia. His most recent book, with Lori Emerson and Jussi Parikka, is THE LAB BOOK: Situated Practices in Media Studies (University of Minnesota Press, 2022).
+ -->
