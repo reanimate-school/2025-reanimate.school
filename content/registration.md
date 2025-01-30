@@ -1,4 +1,4 @@
-+++
+<!-- +++
 title = "Registration"
 description = ""
 date = "2024-02-22"
@@ -10,3 +10,4 @@ The number of places is limited! To express your interest, [please fill out this
 For further questions, contact us by [email](mailto:reanimate.school@proton.me). 
 
 The registration fee should be around CA$100.
+ -->

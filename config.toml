@@ -98,29 +98,6 @@ preserveTaxonomyNames = true
     url = "/objectives/"
     weight = 10
 
-  [[menu.main]]
-    identifier = "speakers"
-    name = "Speakers"
-    url = "/speakers/"
-    weight = 10
-
-  [[menu.main]]
-    identifier = "sponsors"
-    name = "Sponsors"
-    url = "/sponsors/"
-    weight = 10
-
-  [[menu.main]]
-    identifier = "program"
-    name = "Program"
-    url = "/program/"
-    weight = 20
-
-  [[menu.main]]
-    identifier = "registration"
-    name = "Registration"
-    url = "/registration/"
-    weight = 30
 
   [[menu.main]]
     identifier = "contact" 

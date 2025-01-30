@@ -1,4 +1,4 @@
-+++
+<!-- +++
 title = "Program"
 date = "2024-01-26"
 author = ""
@@ -80,3 +80,4 @@ author = ""
 | 14:00 - 15:30 | Alex (Nintendo Mod) | Charlotte, Frederick (Retro Design) | John A. | Game Jam | Game Jam Highlights |
 | 15:45 - 17:15 | Chris | Game Jam | Game Jam | Game Jam | Closing |
 | 17:15 - 19:00 | Championship | Championship | Championship | Championship | Social (at Arcade MTL) |
+ -->
