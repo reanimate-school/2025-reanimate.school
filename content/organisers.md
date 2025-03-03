@@ -48,3 +48,9 @@ Gabriel C. Ullmann is a research support professional at the Next-Generation Cit
 > Master's student, Concordia University
 
 Laurent Voisard completed his bachelor's degree in Computer Science: Computer Games Co-op program at Concordia University in 2024. He has freshly started his Master's degree (MACs) in Software Engineering at Concordia University. Laurent started his research academic path in the Summer 2023 thanks to a NSERC USRA research award, and published two AR/VR papers since then. Now, Laurent turns to study fundamental systems in video games, specifically looking at his favourite genre: Action-RPGs in the likes of the Diablo series.
+
+
+# Diego Elias Costa
+> Assistant Professor, Concordia University
+
+Diego Elias Costa is an Assistant Professor in the Department of Computer Science and Software Engineering of Concordia University. Before that, he was an Assistant Professor in the Computer Science department at UQAM, Canada. He received his Ph.D. in Computer Science from Heidelberg University, Germany. His research interests cover a wide range of software engineering topics, including AI4SE, SE4AI, software supply chain, and performance testing. His work has been published in journals, such as IEEE TSE, EMSE, and TOSEM and at premier venues, such as ICSE, FSE, and ASE. You can find more about him at https://realiselab.github.io/teamInfo/diego.
