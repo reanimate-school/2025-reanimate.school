@@ -103,7 +103,13 @@ preserveTaxonomyNames = true
     identifier = "contact" 
     name = "Contact"       
     url = "/contact/"      
-    weight = 40        
+    weight = 40   
+    
+  [[menu.main]]
+  identifier = "contact" 
+  name = "2024"       
+  url = "https://2024.reanimate.school"      
+  weight = 40       
 
   # [[menu.main]]
   #   identifier = "news"
