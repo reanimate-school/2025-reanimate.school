@@ -4,8 +4,8 @@ other = "Home"
 [posts]
 other = "Posts"
 
-[postslist]
-other = "News"
+# [postslist]
+# other = "News"
 
 # [categories]
 # other = "Categories"
