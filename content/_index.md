@@ -26,5 +26,5 @@ Despite becoming mainstream and some recent, popular books, retro gaming remains
 
 # How?
 
-Please register <a href="https://sites.events.concordia.ca/sites/concordia/en/reanimate25/">Registration</a> If you cannot afford the registration fees, please send an e-mail to reanimate.school@proton.me with a (short) bio. (200 words max) and possibly 1-2 sentences about your interests.
+Please register <a href="https://sites.events.concordia.ca/sites/concordia/en/reanimate25/">Here</a> or, if you cannot afford the registration fees, please send an e-mail to reanimate.school@proton.me with a (short) bio. (200 words max) and possibly 1-2 sentences about your interests.
 
