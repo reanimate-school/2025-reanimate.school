@@ -9,7 +9,7 @@ author = ""
 | Jun. 9 | &nbsp; Monday |
 |---:|:---|
 | 09:00 - 09:30 | &nbsp; Registration and Welcome Breakfast |
-| 09:30 - 10:00 | &nbsp; Andrew Hogue |
+| 09:30 - 10:00 | &nbsp; ([Andrew Hogue](/organisers/)) |
 | 10:00 - 11:00 | &nbsp; Rilla Khaled |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
 | 11:15 - 12:30 | &nbsp; John Aycock |
