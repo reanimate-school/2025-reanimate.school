@@ -14,7 +14,7 @@ Five days, providing ample time for theoretical learning and hands-on practical 
 
 # Where?
 
-Concordia University, at the heart of Montréal, in a conference room for the theoretical sessions and a fully-equipped, state-of-the-art computer lab. for the hands-on sessions. The conference room will be ER1072, located on the 10th floor of the ER building at 2155 Guy. The computer lab. will be located in the Hall building, in which all teaching activities take place during the year.
+Concordia University, at the heart of Montréal, in a conference room for the theoretical sessions and a fully-equipped, state-of-the-art computer lab. for the hands-on sessions. The conference room will be ER1072, located on the 10th floor of the ER building at 2155 Guy. The computer lab will be located in the Hall building, in which all teaching activities take place during the year.
 
 # When?
 
@@ -22,7 +22,7 @@ Jun. Mon. 9 to Fri. 13, 2025 (inclusive)
 
 # Why?
 
-Despite becoming mainstream and some recent, popular books, retro gaming remains under-studied in academia and existing research rarely enters mass media.
+Despite becoming mainstream and being the subject of some recent, popular books, retro gaming remains under-studied in academia and existing research rarely enters mass media.
 
 # How?
 

@@ -40,7 +40,7 @@ Cristiano Politowski is a postdoctoral researcher working with Professor Houari 
 Nicolas Collins Rousse completed his bachelor degree in Electrical Engineering with a concentration in computer science at École de Technologie Supérieure in Montréal, Québec, Canada in 2018. He is currently pursuing a master’s degree (MASc) in Software Engineering at Concordia university in Montréal. He has been professionally creating embedded control system hardware and software since 2016. He also has great experience in electronic equipment repair including retro computers and gaming systems. His interests and skills include bringing new hardware and software technologies and applications to retro systems.
 
 # Gabriel Ullmann
-> Research professional, Concordia University
+> Researcher, Concordia University
 
 Gabriel C. Ullmann is a research support professional at the Next-Generation Cities Institute at Concordia University in Montreal. Currently, he is a member of the development team for CityLayers, a web-enabled smart cities simulation platform. Throughout his Master's program, his research focus centered on Game Engine Architecture, and his thesis involved a comprehensive analysis of notable game engines like Unreal, CryEngine, and Godot. His research interests also include Software Architecture Recovery, Video Game Development, and Artificial Intelligence.
 
