@@ -59,7 +59,7 @@ author = ""
 | 10:00 - 11:00 | &nbsp; [Andrew Hogue](/organisers/) |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
 | 11:15 - 12:30 | &nbsp; [Charlotte Courtois](/organisers/) |
-| 12:30 - 13:30 | &nbsp; Lightning talks with [Rici](/organisers/) |
+| 12:30 - 13:30 | &nbsp; Lightning talks with [Richy Srirachanikorn](/organisers/) |
 | 13:30 - 14:30 | &nbsp; Championship + Coffee |
 | 14:30 - 15:30 | &nbsp; [Henrique](/organisers/), [Hugo](/organisers/) |
 | 15:30 - 16:30 | &nbsp; [Henrique](/organisers/), [Hugo](/organisers/) |
