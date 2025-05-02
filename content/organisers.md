@@ -27,7 +27,7 @@ From 2020 to 2023, she was a postdoctoral researcher in the GEODES group at the 
 > Research Assistant, Concordia University
 
 Henrique de Freitas is a research assistant of Professor Yann-Gaël Guéhéneuc, also a proud member of PTIDEJ(Pattern Trace Identification, Detection, and Enhancement in Java) Team and a full stack developer for one of Concordia's projects for Bridging Divides (A seven-year interdisciplinary initiative investigating the challenges and opportunities of migrant integration ,funded by the Government of Canada through the Canada First Research Excellence Fund (CFREF)).
-Although he has not yet finished his bachelor's in Computer Science in his home country, his experience preceds with four years of bachelor in Physic's and and 35 certificates also equivalent 4 completed courses in web development, mobile development, software development and UI/UX.Summing up to 2 years of full time studying in Alura Courses Platform.
+Although he has not yet finished his bachelor's in Computer Science in his home country, his experience preceds with four years of bachelor in Physic's and and 35 certificates also equivalent 4 completed courses in web development, mobile development, software development and UI/UX.Summing up to many years of full time studying in Alura Courses Platform, interships and work experience.
 
 # Cristiano Politowski
 > Post-doc., Université de Montréal
