@@ -25,11 +25,11 @@ Alex Custodio is an academic, author, and artist based in Montreal. As an SSHRC-
 
 \[[PDF](/Presentations/240610b%20-%20Chris%20-%20Before%20there%20were%20any%20Video%20Games.pdf)]
 
-Chris graduated in 1988 with a BSc in Software Engineering and co-founded a video game development studio, Attention To Detail, creating games for publishers around the world. Over the course of 15 years, the studio grew to 100+ employees and released games across all genres and on all platforms. In 2013 Chris joined Electronic Arts to run their Manchester Studio and brought Battlefield from the PC into the PS2 and Xbox. Over a 10-year period, Chris was responsible for studios in London, Bucharest, Hyderabad, and finally Montreal, with a major focus on mobile gaming, all the while honing a deep understanding of designing software with the end-user at the heart of the process.
+Upon graduating with a degree in Software Engineering in 1988, Chris co-founded a UK games development studio, Attention To Detail and was managing director through until 2003. ATD designed and developed video games for publishers worldwide, across all genres but notably racing, sports and action.
 
-In 2016 Chris developed and released his own mobile game, Smart Numbers, which Apple promoted as App of the Week and continued supporting this until 2019.
+From 2003 to 2012, Chris was Executive Producer and Studio Manager for Electronic Arts, specialising in Mobile Game Development and pioneering the move to touchscreens and games-as-a service. From 2014 to 2019 Chrisdesigned, developed and launched his own mobile game, Smart Numbers, which Apple made Game of the Week in over 50 countries.
 
-In April 2021 Chris joined Concordia University, heading up their ‘gamification’ project – essentially to make ‘Sim City with Real Science’ to help urban planners make smarter decisions.
+In 2021 Chris joined Concordia University where he leads development of the TOOLS4Cities software with a particular focus on creating user experiences that demystify the science and applying principals of gaming to engage users with the issues of urban sustainability and livability.
 
 # Rilla Khaled
 
@@ -45,7 +45,8 @@ Cindy Poremba, Ph.D., is a digital media researcher, game maker, and curator. Th
 
 # Andrew Hogue
 
-To be announced
+Alex Custodio is an author, artist, and academic based in Tiohtià:ke (Montreal). As a PhD candidate at Concordia University, they research handheld platforms, videogame afterlives, and fan communities, focusing specifically on the Game Boy. Alex is the author of Who Are You? Nintendo’s Game Boy Advance Platform (MIT Press, 2020) and they also organize modding and game making workshops in Canada and abroad. You can find more of their work at alexcustodio.com.
+
 
 # Femke Kocken
 
@@ -53,19 +54,18 @@ To be announced
 
 # Mia Clarkson
 
-To be announced
+Mia Clarkson, MA, MLIS, is a Librarian at Ontario Tech University in Oshawa, Ontario, specializing in Copyright & Scholarly Communications. Her previous library work focused on preservation and access for media collections including video games; this now intersects with her research on the challenges of saving and sharing video game history under Canadian Copyright Law. Her other research interests include digital platforms as pedagogical tools, information literacy and media literacy. 
+
 
 # Magnus Berg
 
-To be announced
+Magnus Berg (they/he) is the Digital Scholarship Librarian at the University of Toronto, Mississauga where they support digital scholarship, media collections, digitization, and digital preservation alongside serving as the liaison for Philosophy. They hold an MA in Film + Photography Preservation and Collections Management from Toronto Metropolitan University and a Master of Library and Information Science from Western University. Their research interests include trans and gender diverse labour, media preservation, and copyright implications for archives and special collections.
 
 # Henrique
 
-To be announced
+Henrique de Freitas is a research assistant of Professor Yann-Gaël Guéhéneuc, also a proud member of PTIDEJ(Pattern Trace Identification, Detection, and Enhancement in Java) Team and a full stack developer for one of Concordia's projects for Bridging Divides (A seven-year interdisciplinary initiative investigating the challenges and opportunities of migrant integration ,funded by the Government of Canada through the Canada First Research Excellence Fund (CFREF)).
+Although he has not yet finished his bachelor's in Computer Science in his home country, his experience preceds with four years of bachelor in Physic's and and 35 certificates also equivalent 4 completed courses in web development, mobile development, software development and UI/UX.Summing up to many years of full time studying in Alura Courses Platform, interships and work experience.
 
-# Hugo
-
-To be announced
 
 # Kristian
 
@@ -73,7 +73,7 @@ To be announced
 
 # Aleksander Francizek
 
-To be announced
+Aleksander Franiczek is currently an English PhD candidate at the University of Waterloo. His doctoral research develops a theory and methodology for understanding the player’s experience of narrative in videogames and the role of narrative design in building the meaning of that experience. His main research topics include the textuality and practice of narrative design, role-playing, game history, and critical media studies. He is a member of the university’s Critical Media Lab and Games Institute. He is also a writer and podcaster for the game criticism website RPGFan.
 
 # Robert Glashüttner
 
