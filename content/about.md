@@ -12,4 +12,4 @@ We propose a summer school specifically dedicated to retro gaming, which invites
 
 This summer school invites any interested in retro gaming. In particular, students in the humanities will learn about general game development and the particularities of retro games while students in engineering will learn about the history of gaming and theories about games and game design. 
 
-This summer school, supported by the ACM SIGSOFT and Cloanto, will feature lectures in the mornings and practical, hands-on sessions in the afternoon given by experts on (retro) games as well as site visits, panels, and discussions to foster exchanges, create a community, and promote the studies of retro games. 
+This summer school, will feature lectures in the mornings and practical, hands-on sessions in the afternoon given by experts on (retro) games as well as site visits, panels, and discussions to foster exchanges, create a community, and promote the studies of retro games. 
