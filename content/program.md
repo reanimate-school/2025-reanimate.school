@@ -59,8 +59,8 @@ author = ""
 | 11:15 - 12:30 | &nbsp; [Charlotte Courtois](/speakers/) |
 | 12:30 - 13:30 | &nbsp; Lightning talks with [Richy Srirachanikorn](/speakers/) |
 | 13:30 - 14:30 | &nbsp; Championship + Coffee |
-| 14:30 - 15:30 | &nbsp; [Henrique](/speakers/), [Hugo](/speakers/) |
-| 15:30 - 16:30 | &nbsp; [Henrique](/speakers/), [Hugo](/speakers/) |
+| 14:30 - 15:30 | &nbsp; [Henrique](/speakers/) |
+| 15:30 - 16:30 | &nbsp; [Henrique](/speakers/) |
 
 <br/>
 
