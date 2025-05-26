@@ -50,7 +50,7 @@ Alex Custodio is an author, artist, and academic based in Tiohtià:ke (Montreal)
 
 # Femke Kocken
 
-To be announced
+Femke Kocken is a design researcher, that aims to create meaningful interactions within communities by creating designs that feel innate in technologically augmented worlds. With a background in Industrial Design at the Technological University of Eindhoven, her work centres around conducting research, design making, and creating insights from and with people.
 
 # Mia Clarkson
 
@@ -78,3 +78,11 @@ Aleksander Franiczek is currently an English PhD candidate at the University of 
 # Robert Glashüttner
 
 To be announced
+
+# Richy Srirachanikorn
+
+Richy Srirachanikorn is a sociologist studying nostalgia, video games, and loneliness. Instead of viewing nostalgia as a backwards-facing obsession of things that are lost in the past, he explores how nostalgia is a forward-facing response to loss and change. Specifically, how do video games help us redefine the past we lived into the futures we had hoped to experience? What does this actualized 'lost future' do for players who share a common nostalgia for past experiences? Can nostalgia help us playfully define, and build towards, a future?
+
+
+Summary of Presentation:
+Retro or Prospo or IDK? Re-orienting the Question of Nostalgia and Retrogaming.
