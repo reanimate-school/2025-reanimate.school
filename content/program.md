@@ -44,7 +44,7 @@ author = ""
 | 11:15 - 12:30 | &nbsp; [Andrew Hogue](/speakers/) |
 | 12:30 - 13:30 | &nbsp; Lightning talks + Lunch |
 | 13:30 - 14:30 | &nbsp; Championship + Coffee |
-| 14:30 - 15:30 | &nbsp; [Alex C.](/speakers/) (GBA mods) |
+| 14:30 - 15:30 | &nbsp; [Alex Custodio](/speakers/) (GBA mods) |
 | 15:30 - 16:30 | &nbsp; Visit to the Depot |
 | 16:30 - 17:30 | &nbsp; Workshop at the Depot |
 
@@ -89,6 +89,6 @@ author = ""
 | 11:15 - 12:30 | [John Aycock](/speakers/) | [Andrew Hogue](/speakers/) | [Andrew Hogue](/speakers/) | [Charlotte Courtois](/speakers/) | [Robert Glashüttner](/speakers/) |
 | 12:30 - 13:30 | Lunch + Lightning Talks | Lunch + Lightning Talks | Lunch + Lightning Talks | Lunch + Lightning Talks | Lunch + Lightning Talks |
 | 13:30 - 14:30 | Championship + Coffee | Championship + Coffee | Championship + Coffee | Championship + Coffee | Championship + Coffee |
-| 14:30 - 15:30 | Keynote with CGSA | [Mia Clarkson](/speakers/), [Magnus Berg](/speakers/) | [Alex C.](/speakers/) | [Henrique](/speakers/) | [Aleksander Franiczek](/speakers/) |
+| 14:30 - 15:30 | Keynote with CGSA | [Mia Clarkson](/speakers/), [Magnus Berg](/speakers/) | [Alex Custodio](/speakers/) | [Henrique](/speakers/) | [Aleksander Franiczek](/speakers/) |
 | 15:30 - 16:30 | [Femke Kocken](/speakers/) | [Chris Gibbs](/speakers/) | Visit to the Depot | [Henrique](/speakers/) | Championship Prize |
 | 16:30 - 17:30 | — | — | Workshop at the Depot | — | Outing ArcadeMtl |
