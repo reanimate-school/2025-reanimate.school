@@ -26,5 +26,5 @@ Despite becoming mainstream and being the subject of some recent, popular books,
 
 # How?
 
-Please register <a href="https://sites.events.concordia.ca/sites/concordia/en/reanimate25/">Here</a> or, if you cannot afford the registration fees, please send an e-mail to reanimate.school@proton.me with a (short) bio. (200 words max) and possibly 1-2 sentences about your interests.
+Please register <a href="https://sites.events.concordia.ca/sites/concordia/en/reanimate25/">here until/on Tue. Jun. 3rd</a> or, if you cannot afford the registration fees, please send an e-mail to reanimate.school@proton.me with a (short) bio. (200 words max) and possibly 1-2 sentences about your interests.
 
