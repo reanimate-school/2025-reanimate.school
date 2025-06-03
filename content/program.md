@@ -57,7 +57,7 @@ author = ""
 | 10:00 - 11:00 | &nbsp; [Cindy Poremba](/speakers/) |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
 | 11:15 - 12:30 | &nbsp; [Charlotte Courtois](/speakers/) |
-| 12:30 - 13:30 | &nbsp; Lightning talks with [Richy Srirachanikorn](/speakers/) |
+| 12:30 - 13:30 | &nbsp;  TBA | |
 | 13:30 - 14:30 | &nbsp; Championship + Coffee |
 | 14:30 - 15:30 | &nbsp; [Henrique](/speakers/) |
 | 15:30 - 16:30 | &nbsp; [Henrique](/speakers/) |
@@ -85,7 +85,7 @@ author = ""
 |---:|:---:|:---:|:---:|:---:|:---:|
 |  | Jun 9 | Jun 10 | Jun 11 | Jun 12 | Jun 13 |
 | 09:00 - 10:00 | Registration + Breakfast | [Andrew Hogue](/speakers/) | [Andrew Hogue](/speakers/) | - | - |
-| 10:00 - 11:00 | [Rilla Khaled](/speakers/) | [Andrew Hogue](/speakers/) | [Andrew Hogue](/speakers/) | [Cindy Poremba](/speakers/) | Keynote: [Kristian](/speakers/) |
+| 10:00 - 11:00 | [Rilla Khaled](/speakers/) | [Andrew Hogue](/speakers/) | [Andrew Hogue](/speakers/) | [Cindy Poremba](/speakers/) | [Richy Srirachanikorn](/speakers/) |
 | 11:15 - 12:30 | [John Aycock](/speakers/) | [Andrew Hogue](/speakers/) | [Andrew Hogue](/speakers/) | [Charlotte Courtois](/speakers/) | [Robert Glashüttner](/speakers/) |
 | 12:30 - 13:30 | Lunch + Lightning Talks | Lunch + Lightning Talks | Lunch + Lightning Talks | Lunch + Lightning Talks | Lunch + Lightning Talks |
 | 13:30 - 14:30 | Championship + Coffee | Championship + Coffee | Championship + Coffee | Championship + Coffee | Championship + Coffee |
