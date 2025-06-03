@@ -57,7 +57,7 @@ author = ""
 | 10:00 - 11:00 | &nbsp; [Cindy Poremba](/speakers/) |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
 | 11:15 - 12:30 | &nbsp; [Charlotte Courtois](/speakers/) |
-| 12:30 - 13:30 | &nbsp; TBA |
+| 12:30 - 13:30 | &nbsp; Lunch + TBA |
 | 13:30 - 14:30 | &nbsp; Championship + Coffee |
 | 14:30 - 15:30 | &nbsp; [Henrique](/speakers/) |
 | 15:30 - 16:30 | &nbsp; [Henrique](/speakers/) |
