@@ -7,13 +7,12 @@ author = ""
 
 # John Aycock
 
-\[[PDF](/Presentations/240612e%20-%20John%20-%20Archaeogaming%20-%20Computer%20Science%20Meets%20Archaeology.pdf)]
+
 
 John Aycock is a full professor in the Department of Computer Science at the University of Calgary, Canada. In collaboration with archaeologists, game historians, and others, he researches the implementation of old computer games. He has published two books on the topic (Retrogame Archaeology: Exploring Old Computer Games, 2016; Amnesia Remembered: Reverse Engineering a Digital Artifact, 2023) in addition to numerous journal and conference publications.
 
 # Charlotte Courtois
 
-\[[PDF](/Presentations/240611c%20-%20Charlotte%20-%20Low-tech%20by%20Design_%20Using%20Retro%20Tools%20for%20Green%20Game%20Dev.pdf)]
 
 Charlotte Courtois is a PhD candidate at Université de Montréal. Her research-creation work focuses on the history of pornographic video games on Commodore 64 and ZX Spectrum, as she uses those platforms to develop queer inclusive explicit games. She's the co-organiser of "Input, Poke, Save", a Discord-based annual seminar on platform studies approach to video games. She works with Professor Caroline Bem on organising exhibitions of video games against gender-based, sexual, queerphobic, and racist violence on university campuses. She develops games on the topic of politics and sexuality on [https://miramar.itch.io/](https://miramar.itch.io/)
 
@@ -23,7 +22,6 @@ Alex Custodio is an academic, author, and artist based in Montreal. As an SSHRC-
 
 # Chris Gibbs
 
-\[[PDF](/Presentations/240610b%20-%20Chris%20-%20Before%20there%20were%20any%20Video%20Games.pdf)]
 
 Upon graduating with a degree in Software Engineering in 1988, Chris co-founded a UK games development studio, Attention To Detail and was managing director through until 2003. ATD designed and developed video games for publishers worldwide, across all genres but notably racing, sports and action.
 
@@ -33,19 +31,19 @@ In 2021 Chris joined Concordia University where he leads development of the TOOL
 
 # Rilla Khaled
 
-\[[PDF](/Presentations/240613a%20-%20Rilla%20and%20Darren%20-%20The%20Knot%20-%20Situating%20Old%20Games%20%28Research%29.pdf)]
 
 Dr. Rilla Khaled is an Associate Professor of Design and Computation Arts at Concordia University in Tiohtià\:ke / Montréal. She is Associate Director of the Technoculture, Art and Games (TAG) Research Centre. Her work focuses on how playful media can improve daily life and spans establishing foundations for recoverable, materials-based game design research, articulating boundaries for experimental uses of AI, designing award-winning games, creating speculative prototypes of near-future technologies, and working with BIPOC communities to materialise inclusive futures.
 
 # Cindy Poremba
 
-\[[PDF](/Presentations/240612b%20-%20Cindy%20-%20Jordan%20Mechner’s%20Canabalt.pdf)]
 
 Cindy Poremba, Ph.D., is a digital media researcher, game maker, and curator. They are an Associate Professor (Digital Futures) at OCAD University (Tkaronto/Toronto, CA) and Co-Director of OCAD’s game\:play Lab. Dr. Poremba has presented internationally at conferences, festivals, and invited lectures, on topics relating to game art and curation, capture in postmedia practices, and interactive documentaries. Cindy also organizes non-traditional exhibitions as an independent curator. Their award-winning game and “New Arcade” work, independently and as a member of the Kokoromi experimental videogame collective, has been featured in both international game and digital art exhibitions.
 
 # Andrew Hogue
 
-Alex Custodio is an author, artist, and academic based in Tiohtià:ke (Montreal). As a PhD candidate at Concordia University, they research handheld platforms, videogame afterlives, and fan communities, focusing specifically on the Game Boy. Alex is the author of Who Are You? Nintendo’s Game Boy Advance Platform (MIT Press, 2020) and they also organize modding and game making workshops in Canada and abroad. You can find more of their work at alexcustodio.com.
+Dr. Andrew Hogue is an Associate Professor at Ontario Tech University within the Faculty of Business and Information Technology's Game Development and Entrepreneurship program. His research interests include the development and evaluation of game design techniques for education, stereoscopic visualization and virtual reality. He is currently interested in understanding how environmental, technology and design parameters affect the user experience in virtual reality.  Advances in this area will undoubtedly enable developers to create better stereoscopic 3D video game content. During his Master of Science studies at York University, he developed hardware and software for immersive virtual reality displays, as well as a variety of stereoscopic 3D applications to evaluate the effectiveness of head-tracking on user immersion. He has been the driving force behind the design and development of the Game Development Lab at Ontario Tech University, ensuring it has the latest emerging technology for undergraduate and graduate student training/research. Through his past involvement in the Immersive Visual environment project at York University, he has gained interests in psychophysics, stereoscopic 3D, and determining the factors for engagement and immersion in simulation.
+
+Dr. Hogue has supervised more than 40 undergraduates as summer research students and fourth-year Capstone projects, and five graduate (MSc/PhD) students. He has also been involved in securing more than $4 million in research funds for a variety of robotics and simulation projects. He has published more than 30 refereed journal and conference articles.
 
 
 # Femke Kocken
@@ -67,22 +65,12 @@ Henrique de Freitas is a research assistant of Professor Yann-Gaël Guéhéneuc,
 Although he has not yet finished his bachelor's in Computer Science in his home country, his experience preceds with four years of bachelor in Physic's and and 35 certificates also equivalent 4 completed courses in web development, mobile development, software development and UI/UX.Summing up to many years of full time studying in Alura Courses Platform, interships and work experience.
 
 
-# Kristian
-
-To be announced
-
 # Aleksander Francizek
 
 Aleksander Franiczek is currently an English PhD candidate at the University of Waterloo. His doctoral research develops a theory and methodology for understanding the player’s experience of narrative in videogames and the role of narrative design in building the meaning of that experience. His main research topics include the textuality and practice of narrative design, role-playing, game history, and critical media studies. He is a member of the university’s Critical Media Lab and Games Institute. He is also a writer and podcaster for the game criticism website RPGFan.
 
-# Robert Glashüttner
-
-To be announced
 
 # Richy Srirachanikorn
 
 Richy Srirachanikorn is a sociologist studying nostalgia, video games, and loneliness. Instead of viewing nostalgia as a backwards-facing obsession of things that are lost in the past, he explores how nostalgia is a forward-facing response to loss and change. Specifically, how do video games help us redefine the past we lived into the futures we had hoped to experience? What does this actualized 'lost future' do for players who share a common nostalgia for past experiences? Can nostalgia help us playfully define, and build towards, a future?
 
-
-Summary of Presentation:
-Retro or Prospo or IDK? Re-orienting the Question of Nostalgia and Retrogaming.
