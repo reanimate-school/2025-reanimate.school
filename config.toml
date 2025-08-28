@@ -119,7 +119,12 @@ preserveTaxonomyNames = true
   identifier = "2024" 
   name = "2024"       
   url = "https://2024.reanimate.school"      
-  weight = 40       
+  weight = 40    
+  [[menu.main]]
+  identifier = "2026" 
+  name = "2026"       
+  url = "https://2026.reanimate.school"      
+  weight = 40        
 
   # [[menu.main]]
   #   identifier = "news"
