@@ -24,14 +24,14 @@ author = ""
 
 | Jun. 10 | &nbsp; Tuesday |
 |---:|:---|
-| 09:00 - 10:00 | &nbsp; [Andrew Hogue](/speakers/) [[PDF1](Presentations/250610a - Andrew Hogue.pdf), [PDF2](Presentations/250610b - Andrew Hogue.pdf)] |
-| 10:00 - 11:00 | &nbsp; [Andrew Hogue](/speakers/) [[PDF](Presentations/250610c - Andrew Hogue.pdf)] |
+| 09:00 - 10:00 | &nbsp; [Andrew Hogue](/speakers/) [[PDF1](/Presentations/250610a - Andrew Hogue.pdf), [PDF2](/Presentations/250610b - Andrew Hogue.pdf)] |
+| 10:00 - 11:00 | &nbsp; [Andrew Hogue](/speakers/) [[PDF](/Presentations/250610c - Andrew Hogue.pdf)] |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:30 | &nbsp; [Andrew Hogue](/speakers/) [[PDF](Presentations/250610d - Andrew Hogue.pdf)] |
+| 11:15 - 12:30 | &nbsp; [Andrew Hogue](/speakers/) [[PDF](/Presentations/250610d - Andrew Hogue.pdf)] |
 | 12:30 - 13:30 | &nbsp; Lightning talks + Lunch |
 | 13:30 - 14:30 | &nbsp; Championship + Coffee |
-| 14:30 - 15:30 | &nbsp; [Mia Clarkson](/speakers/), [Magnus Berg](/speakers/) [[PDF](250610e - Mia Clarkson and Magnus Berg.pdf)] |
-| 15:30 - 16:30 | &nbsp; [Chris Gibbs](/speakers/) [[PDF](250610f - Chris Gibbs.pdf)] |
+| 14:30 - 15:30 | &nbsp; [Mia Clarkson](/speakers/), [Magnus Berg](/speakers/) [[PDF](/Presentations/250610e - Mia Clarkson and Magnus Berg.pdf)] |
+| 15:30 - 16:30 | &nbsp; [Chris Gibbs](/speakers/) [[PDF](/Presentations/250610f - Chris Gibbs.pdf)] |
 
 <br/>
 
@@ -39,13 +39,13 @@ author = ""
 
 | Jun. 11 | &nbsp; Wednesday |
 |---:|:---|
-| 09:00 - 10:00 | &nbsp; [Andrew Hogue](/speakers/) [[PDF](250611a - Andrew Hogue.pdf)] |
+| 09:00 - 10:00 | &nbsp; [Andrew Hogue](/speakers/) [[PDF](/Presentations/250611a - Andrew Hogue.pdf)] |
 | 10:00 - 11:00 | &nbsp; [Andrew Hogue](/speakers/) |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
 | 11:15 - 12:30 | &nbsp; [Andrew Hogue](/speakers/) |
 | 12:30 - 13:30 | &nbsp; Lightning talks + Lunch |
 | 13:30 - 14:30 | &nbsp; Championship + Coffee |
-| 14:30 - 15:30 | &nbsp; [Alex Custodio](/speakers/) (GBA mods) [[PDF](250611b - Alex Custodio.pdf)] |
+| 14:30 - 15:30 | &nbsp; [Alex Custodio](/speakers/) (GBA mods) [[PDF](/Presentations/250611b - Alex Custodio.pdf)] |
 | 15:30 - 16:30 | &nbsp; Visit to the Depot |
 | 16:30 - 17:30 | &nbsp; Workshop at the Depot |
 
@@ -57,10 +57,10 @@ author = ""
 |---:|:---|
 | 10:00 - 11:00 | &nbsp; [Cindy Poremba](/speakers/) |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:30 | &nbsp; [Charlotte Courtois](/speakers/) [[PDF](250612b - Charlotte Courtois.pdf)] |
+| 11:15 - 12:30 | &nbsp; [Charlotte Courtois](/speakers/) [[PDF](/Presentations/250612b - Charlotte Courtois.pdf)] |
 | 12:30 - 13:30 | &nbsp; Lunch + TBA |
 | 13:30 - 14:30 | &nbsp; Championship + Coffee |
-| 14:30 - 15:30 | &nbsp; [Henrique](/speakers/) [[PDF](250612c - Henrique de Freitas Serra.pdf)] |
+| 14:30 - 15:30 | &nbsp; [Henrique](/speakers/) [[PDF](/Presentations/250612c - Henrique de Freitas Serra.pdf)] |
 | 15:30 - 16:30 | &nbsp; [Henrique](/speakers/) |
 
 <br/>
@@ -71,10 +71,10 @@ author = ""
 |---:|:---|
 | 10:00 - 11:00 | &nbsp; [Richy Srirachanikorn](/speakers/) |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:30 | &nbsp; [Femke Kocken](/speakers/) [[PDF](250613b - Femke Kocken.pdf)] |
+| 11:15 - 12:30 | &nbsp; [Femke Kocken](/speakers/) [[PDF](/Presentations/250613b - Femke Kocken.pdf)] |
 | 12:30 - 13:30 | &nbsp; Lightning talks + Lunch |
 | 13:30 - 14:30 | &nbsp; Championship + Coffee |
-| 14:30 - 15:30 | &nbsp; [Aleksander Franiczek](/speakers/) [[PDF](250613c - Aleks Franiczek.pdf)] |
+| 14:30 - 15:30 | &nbsp; [Aleksander Franiczek](/speakers/) [[PDF](/Presentations/250613c - Aleks Franiczek.pdf)] |
 | 15:30 - 16:30 | &nbsp; Championship Prize |
 | 16:30 - 17:30 | &nbsp; Outing ArcadeMtl |
 
