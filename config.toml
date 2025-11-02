@@ -114,13 +114,13 @@ preserveTaxonomyNames = true
     identifier = "gamejam"
     name = "Game Jam"
     url = "/gamejam/"
-    weight = 20
+    weight = 30
 
   [[menu.main]]
     identifier = "photos"
     name = "Photos"
     url = "/photos/"
-    weight = 20
+    weight = 30
 
   [[menu.main]]
     identifier = "contact"
