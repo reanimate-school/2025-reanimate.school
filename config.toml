@@ -98,11 +98,17 @@ preserveTaxonomyNames = true
     url = "/objectives/"
     weight = 10
 
-    [[menu.main]]
+  [[menu.main]]
     identifier = "speakers"
     name = "Speakers"
     url = "/speakers/"
-    weight = 10
+    weight = 20
+
+  # [[menu.main]]
+  #   identifier = "sponsors"
+  #   name = "Sponsors"
+  #   url = "/sponsors/"
+  #   weight = 20
 
   [[menu.main]]
     identifier = "program"
@@ -123,28 +129,28 @@ preserveTaxonomyNames = true
     weight = 30
 
   [[menu.main]]
+    identifier = "registration"
+    name = "Registration"
+    url = "/registration/"
+    weight = 40
+
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
     weight = 40
     
   [[menu.main]]
-  identifier = "2024"
-  name = "2024"
-  url = "https://2024.reanimate.school"
-  weight = 40
+    identifier = "2024"
+    name = "2024"
+    url = "https://2024.reanimate.school"
+    weight = 50
 
   [[menu.main]]
     identifier = "2026"
     name = "2026"
     url = "https://2026.reanimate.school"
-    weight = 40
-
-  # [[menu.main]]
-  #   identifier = "news"
-  #   name = "News"
-  #   url = "/news/"       # The path can lead to a content folder too.
-  #   weight = 20
+    weight = 50
 
 [taxonomies]
     tag = "tags"
