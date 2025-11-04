@@ -1,0 +1,138 @@
+{{ $dir := .Get "dir" }}
+{{ $path := printf "/%s" $dir }}
+
+<div class="gallery-wrapper" data-gallery="{{ $dir }}">
+  <div class="gallery-grid">
+    {{ $files := readDir (printf "static/%s" $dir) }}
+    {{ range $index, $file := $files }}
+      <img 
+        src="{{ $path }}/{{ $file.Name }}" 
+        loading="lazy" 
+        data-index="{{ $index }}" 
+        style="display:none;"
+      />
+    {{ end }}
+  </div>
+  <div class="gallery-pagination"></div>
+</div>
+
+<style>
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .gallery-grid img {
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: transform 0.15s;
+  }
+  .gallery-grid img:hover { transform: scale(1.02); }
+
+  .gallery-pagination {
+    text-align: center;
+    margin-top: 10px;
+  }
+  .gallery-pagination button {
+    margin: 0 4px;
+    padding: 6px 12px;
+    background: #444;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .gallery-pagination button.active {
+    background: #008cff;
+    font-weight: bold;
+  }
+
+  /* Lightbox (same as before) */
+  .lightbox {
+    display:none; position:fixed; inset:0; background:rgba(0,0,0,0.9);
+    justify-content:center; align-items:center; z-index:9999;
+  }
+  .lightbox.show { display:flex; }
+  .lightbox img { max-width:92%; max-height:85%; border-radius:8px; }
+  .lightbox .btn {
+    position:absolute; color:white; font-size:2.2rem; cursor:pointer; user-select:none;
+  }
+  .lightbox .close-btn { top:12px; right:20px; }
+  .lightbox .prev { left:22px; top:50%; transform:translateY(-50%); }
+  .lightbox .next { right:22px; top:50%; transform:translateY(-50%); }
+</style>
+
+<div id="lightbox" class="lightbox">
+  <span class="btn close-btn">×</span>
+  <span class="btn prev">❮</span>
+  <img id="lightbox-img" />
+  <span class="btn next">❯</span>
+</div>
+
+<script>
+if (!window.__galleryPaginationInit) {
+  window.__galleryPaginationInit = true;
+
+  const PAGE_SIZE = 12;
+
+  function showPage(wrapper, page) {
+    const imgs = [...wrapper.querySelectorAll('.gallery-grid img')];
+    const totalPages = Math.ceil(imgs.length / PAGE_SIZE);
+
+    imgs.forEach((img, i) => {
+      img.style.display = (i >= (page-1)*PAGE_SIZE && i < page*PAGE_SIZE) ? 'block' : 'none';
+    });
+
+    const pagination = wrapper.querySelector('.gallery-pagination');
+    pagination.innerHTML = "";
+
+    for (let p = 1; p <= totalPages; p++) {
+      const btn = document.createElement('button');
+      btn.textContent = p;
+      if (p === page) btn.classList.add('active');
+      btn.addEventListener('click', () => showPage(wrapper, p));
+      pagination.appendChild(btn);
+    }
+  }
+
+  document.querySelectorAll('.gallery-wrapper').forEach(wrapper => showPage(wrapper, 1));
+
+  /* Lightbox */
+  const box = document.getElementById('lightbox');
+  const boxImg = document.getElementById('lightbox-img');
+  let currentPageImgs = [];
+  let currentIndex = 0;
+
+  document.addEventListener('click', e => {
+    const img = e.target.closest('.gallery-grid img');
+    if (img) {
+      const grid = img.closest('.gallery-grid');
+      currentPageImgs = [...grid.querySelectorAll('img')].filter(i => i.style.display !== 'none');
+      currentIndex = currentPageImgs.indexOf(img);
+      open(currentPageImgs[currentIndex].src);
+      return;
+    }
+    if (e.target.closest('.close-btn')) return close();
+    if (e.target.closest('.next')) return change(1);
+    if (e.target.closest('.prev')) return change(-1);
+  });
+
+  function open(src) { boxImg.src = src; box.classList.add('show'); }
+  function close() { box.classList.remove('show'); }
+  function change(step) {
+    currentIndex = (currentIndex + step + currentPageImgs.length) % currentPageImgs.length;
+    boxImg.src = currentPageImgs[currentIndex].src;
+  }
+
+  document.addEventListener('keydown', e => {
+    if (!box.classList.contains('show')) return;
+    if (e.key === 'Escape') close();
+    if (e.key === 'ArrowRight') change(1);
+    if (e.key === 'ArrowLeft') change(-1);
+  });
+}
+</script>
