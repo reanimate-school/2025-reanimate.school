@@ -4,4 +4,5 @@ description = ""
 # date = ""
 +++
 
-Some [photos](/Photos/) taken during the school!
+Some photos taken during the school!
+{{< gallery dir="Photos" >}}
