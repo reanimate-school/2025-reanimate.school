@@ -69,7 +69,7 @@ author = ""
 
 | Jun. 13 | &nbsp; Friday |
 |---:|:---|
-| 10:00 - 11:00 | &nbsp; [Richy Srirachanikorn](/speakers/) |
+| 10:00 - 11:00 | &nbsp; [Richy Srirachanikorn](/speakers/) [[PDF](/Presentations/250613a - Richy Srirachanikorn.pdf)] |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
 | 11:15 - 12:30 | &nbsp; [Femke Kocken](/speakers/) [[PDF](/Presentations/250613b - Femke Kocken.pdf)] |
 | 12:30 - 13:30 | &nbsp; Lightning talks + Lunch |
