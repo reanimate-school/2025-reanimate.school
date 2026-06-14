@@ -72,61 +72,61 @@ preserveTaxonomyNames = true
     identifier = "objectives"
     name = "Objectives"
     url = "/objectives/"
-    weight = 10
+    weight = 11
 
   [[menu.main]]
     identifier = "organisers"
     name = "Organisers"
     url = "/organisers/"
-    weight = 10
+    weight = 12
 
   [[menu.main]]
     identifier = "speakers"
     name = "Speakers"
     url = "/speakers/"
-    weight = 20
+    weight = 13
 
   [[menu.main]]
     identifier = "program"
     name = "Program"
     url = "/program/"
-    weight = 20
+    weight = 14
 
   [[menu.main]]
     identifier = "registration"
     name = "Registration"
     url = "/registration/"
-    weight = 40
+    weight = 15
 
   [[menu.main]]
     identifier = "gamejam"
     name = "Game_Jam"
     url = "/gamejam/"
-    weight = 30
+    weight = 16
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 40
+    weight = 17
 
   [[menu.main]]
     identifier = "photos"
     name = "Photos"
     url = "/photos/"
-    weight = 30
+    weight = 18
 
   [[menu.main]]
     identifier = "2024"
     name = "2024"
     url = "https://2024.reanimate.school"
-    weight = 50
+    weight = 19
 
   [[menu.main]]
     identifier = "2026"
     name = "2026"
     url = "https://2026.reanimate.school"
-    weight = 50
+    weight = 20
 
 [taxonomies]
     tag = "tags"
