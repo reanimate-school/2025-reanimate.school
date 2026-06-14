@@ -6,7 +6,7 @@
 
 # Who?
 
-Researchers, writers, journalists, Students, gaming enthusiasts, and individuals interested in (retro) games. No previous experience in retro-development is necessary: enthusiasm trumps experience!
+Researchers, writers, journalists, students, gaming enthusiasts, and individuals interested in (retro) games. No previous experience in retro-development is necessary: enthusiasm trumps experience!
 
 # What?
 
@@ -14,10 +14,10 @@ Five days, providing ample time for theoretical learning and hands-on practical 
 
 # Where?
 
-Concordia University, at the heart of Montréal, in a conference room for the theoretical sessions and a fully-equipped, state-of-the-art computer lab. for the hands-on sessions. The conference room will be ER1072, located on the 10th floor of the ER building at 2155 Guy. The computer lab will be located in the Hall building, in which all teaching activities take place during the year.
+Concordia University, at the heart of Montréal, in a conference room for the theoretical sessions and a fully-equipped, state-of-the-art computer lab. for the hands-on sessions. The conference room is ER1072, located on the 10th floor of the ER building at 2155 Guy.
 
 # Important
-The public transport system of Montreal(STM) will enter in a strike at 9th of June, so please access the following link to have a better information regarding bus and subway schedules:
+The public transport system of Montreal (STM) will enter in a strike at 9th of June, so please access the following link to have the latest information regarding bus and subway schedules:
 <a href="https://lp.ca/elonfZ?sharing=true">STM Information</a> 
 
 # When?
